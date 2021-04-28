@@ -38,7 +38,7 @@ if ($_SESSION['is_logged_in'] == true) {
 
                 <div class="card-text">
                     <?php echo $row['short_description'] ?>
-                    <p><a href="post__details.php?id=<?php echo $row['id'] ?>">more details..</a></p>
+                    <p><a href="post__details.php?id=<?php echo $row['id'] ?>">More details..</a></p>
                 </div>
                 <h4>Name : <?php echo $row['name'] ?></h4>
                 <p><b>Email :</b> <?php echo $row['email']  ?></p>
@@ -46,10 +46,11 @@ if ($_SESSION['is_logged_in'] == true) {
                 <p><b>Address :</b> <?php echo $row['address'] ?>,
                     <?php echo $row['city'] ?><br><?php echo $row['state'] ?>, <?php echo $row['zip'] ?>
                 </p>
-
+                <div class="card-footer bg-transparent border-success">
                 <?php echo "<a href='?type=delete&id=" . $row['id'] . "' class='btn btn-primary'>Delete</a>&nbsp;&nbsp;";
                         echo "<a href='post.php?id=" . $row['id'] . "' class='btn btn-secondary'>Edit</a>";
                         ?>
+                        </div>
 
             </div>
         </div>

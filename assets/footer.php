@@ -12,8 +12,7 @@
             <div class="col-md-8">
                 <div class="cta-content">
                     <h2>Want To Be A Piece Of Us?</h2>
-                    <p>We give a chance for people to work in the professional environment with challenges and values.
-                        Come with us!</p>
+                    <p>Help us stop the food wastage and help feed the one who go hungry to bed!</p>
                 </div>
             </div>
             <div class="col-md-3">
@@ -39,7 +38,7 @@
                 <!--Footer Widget start-->
                 <div class="footer-widget col-lg-4 col-md-6 col-sm-6 col-12 mb-30">
                     <div class="footer-logo">
-                        <a href="index.html"><img src="assets/images/logo-white.png" alt=""></a>
+                        <a href="index.html"><img src="assets/images/logo.png" alt=""></a>  <!-- get a white background logo for better visiblity -->
                     </div>
                     <p> Our mission is to provide the best renovation service at an reasonable price without sacrificing
                         quality. You will be satisfy with our work knowing we take the necessary steps to meet your
@@ -49,9 +48,9 @@
 
                 <!--Footer Widget start-->
                 <div class="footer-widget col-lg-4 col-md-6 col-sm-6 col-12 mb-30">
-                    <h4 class="title"><span class="text">Murphy Office</span></h4>
+                    <h4 class="title"><span class="text">Bits and Pieces Office</span></h4>
                     <ul>
-                        <li><i class="fa fa-map-marker"></i><span> 14 Tottenham Road, London, England.</span></li>
+                        <li><i class="fa fa-map-marker"></i><span> BCE Patna, Patna, Inida.</span></li>
                         <li><i class="fa fa-phone"></i><span><a href="#"> (102) 6666 8888</a></span></li>
                         <li><i class="fa fa-envelope-o"></i><span><a href="#">info@example.com</a></span></li>
                         <li><i class="fa fa-clock-o"></i><span><a href="#"> Mon - Sat: 9:00 - 18:00</a></span></li>
@@ -62,8 +61,8 @@
                 <!--Footer Widget start-->
                 <div class="footer-widget col-lg-4 col-md-6 col-sm-6 col-12 mb-30">
                     <h4 class="title"><span class="text">Newsletter</span></h4>
-                    <p>Subscribe our newsletter and get all latest news about our latest properties, promotions, offers
-                        and discount</p>
+                    <p>Subscribe our newsletter and get all latest news about our latest meet-ups, vision sharing, step outs
+                        and more</p>
                     <form id="mc-form" class="mc-form footer-newsletter">
                         <input id="mc-email" type="email" autocomplete="off" placeholder="Email Here.." />
                         <button id="mc-submit"><i class="fa fa-paper-plane-o"></i></button>
@@ -97,8 +96,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="copyright text-center">
-                        <p>Copyright &copy;2019 <a href="#">Murphy.</a> Made with <i class="fa fa-heart"></i> by
-                            BootXperts.</p>
+                        <p> Made with <i class="fa fa-heart"></i> by
+                            Fledgling Coders.</p>
                     </div>
                 </div>
             </div>
